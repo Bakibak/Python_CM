@@ -7,7 +7,7 @@
 __Занятие 1 (пн 23.10.2023). Введение в Python.__
 
 [Презентация](https://github.com/Bakibak/Python_CM/blob/main/Лекции/Введение%20в%20Python.pdf)
-
+[Ноутбуки](https://github.com/Bakibak/Python_CM/tree/main/Ноутбуки/Семинар%201)
 - типы переменных (int, float, str, boolean)
 - команды ввода и вывода (print(), input())
 - математические операции
