@@ -29,9 +29,9 @@ __Занятие 2 (ср 25.10.2023). Введение в Python (продолж
   
 __Занятие 3 (пн 30.10.2023). Библиотеки numpy, pandas. Работа с таблицами.__
 
-[Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/Seminar_3_4.ipynb)
+[Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/Seminar_3_4.ipynb), [данные](https://github.com/Bakibak/Python_CM/blob/main/Данные/wine_reviews.csv.zip)
 
-*  [Домашнее задание](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/homework-practice-01.ipynb). Дедлайн 23.59 17.11.2023.             
+*  [Домашнее задание](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/homework-practice-01.ipynb). Дедлайн **23.59 17.11.2023**. Отправлять на почту vbaklanova@hse.ru с темой письма **ДЗ_Фамилия_Имя**.            
 
 __Занятие 4 (ср 08.11.2023). Контрольная работа.__
 
