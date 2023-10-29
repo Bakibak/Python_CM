@@ -28,9 +28,14 @@ __Занятие 2 (ср 25.10.2023). Введение в Python (продолж
 - задание функций def()
   
 __Занятие 3 (пн 30.10.2023). Библиотеки numpy, pandas. Работа с таблицами.__
-* Домашнее задание. Дедлайн 23.59 17.11.2023.             
+
+[Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/Seminar_3_4.ipynb)
+
+*  [Домашнее задание](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/homework-practice-01.ipynb). Дедлайн 23.59 17.11.2023.             
 
 __Занятие 4 (ср 08.11.2023). Контрольная работа.__
+
+[Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/Seminar_3_4.ipynb)
 
 __Занятие 5 (чт 09.11.2023). Рandas для анализа данных.__
 
