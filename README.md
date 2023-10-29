@@ -35,9 +35,9 @@ __Занятие 3 (пн 30.10.2023). Библиотеки numpy, pandas. Раб
 
 __Занятие 4 (ср 08.11.2023). Контрольная работа.__
 
-[Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/Seminar_3_4.ipynb)
-
 __Занятие 5 (чт 09.11.2023). Рandas для анализа данных.__
+
+[Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/Seminar_3_4.ipynb)
 
 __Занятие 6 (пн 13.11.2023). Библиотека matplotlib для визуализации данных.__
 * ОС по курсу.
