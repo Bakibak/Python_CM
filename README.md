@@ -27,7 +27,7 @@ __Занятие 2 (ср 25.10.2023). Введение в Python (продолж
 - циклы for и while
 - задание функций def()
   
-__Занятие 3 (пн 30.10.2023). Библиотеки numpy, pandas. Работа с таблицами.__
+__Занятие 3 (вт 31.10.2023). Библиотеки numpy, pandas. Работа с таблицами.__
 
 [Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/Seminar_3_4.ipynb), [данные](https://github.com/Bakibak/Python_CM/blob/main/Данные/wine_reviews.csv.zip)
 
