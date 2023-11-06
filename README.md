@@ -2,6 +2,8 @@
 
 [__Информация о курсе__](https://github.com/Bakibak/Python_CM/blob/main/Лекции/Организационная%20часть.pdf)
 
+[__Ведомость с оценками__](https://docs.google.com/spreadsheets/d/10_LYPeYgJ5l3Cvdfm7Acmyil5v7Fz8TMtd8FtxOYK9M/edit?usp=sharing)
+
 ### План занятий
 
 __Занятие 1 (пн 23.10.2023). Введение в Python.__
