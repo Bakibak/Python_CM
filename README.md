@@ -47,7 +47,7 @@ __Занятие 5 (чт 09.11.2023). Рandas для анализа данных
 
 __Занятие 6 (пн 13.11.2023). Библиотека matplotlib для визуализации данных.__
 
-[Ноутбук]()
+[Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/PROG_DA_06-1.ipynb)
 
 [Документация по matplotlib](https://github.com/Bakibak/Python_CM/blob/main/Лекции/Matplotlib.book.pdf)
 
