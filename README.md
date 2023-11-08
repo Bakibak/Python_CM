@@ -47,11 +47,7 @@ __Занятие 5 (чт 09.11.2023). Рandas для анализа данных
 
 __Занятие 6 (пт 10.11.2023). Библиотека matplotlib для визуализации данных.__
 
-[Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/PROG_DA_06-1.ipynb)
-
-[Документация по matplotlib](https://github.com/Bakibak/Python_CM/blob/main/Лекции/Matplotlib.book.pdf)
-
-[Примеры графиков](https://matplotlib.org/stable/plot_types/basic/index.html)
+[Ноутбук](https://github.com/Bakibak/Python_CM/blob/main/Ноутбуки/PROG_DA_06-1.ipynb), [документация по matplotlib](https://github.com/Bakibak/Python_CM/blob/main/Лекции/Matplotlib.book.pdf), [примеры графиков](https://matplotlib.org/stable/plot_types/basic/index.html)
 
 * Форма обратной связи по курсу (опрос анонимный)
 
